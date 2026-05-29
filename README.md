@@ -1,11 +1,10 @@
-# missile-pet
-🚀 Desktop Missile Pet
+# 🚀 Desktop Missile Pet
 
 A completely unnecessary desktop pet that follows your cursor like a homing missile.
 
 Built with Python, PyQt6, and questionable decisions.
 
-Features
+# Features
 
 - 🚀 Fast missile that chases your cursor
 - 🧊 Adjustable slipperiness (friction)
@@ -15,7 +14,7 @@ Features
 - 🧱 Bounces off the edges of your monitor
 - 💻 Live command controls through the console
 
-Commands
+# Commands
 
 While the program is running, you can type commands into the console:
 
@@ -49,38 +48,12 @@ quit
 
 Closes the program.
 
-Installation
-
-Option 1: Download the EXE
-
-Download the latest release and run the executable.
-
-Option 2: Run from source
-
-Requirements:
-
-- Python 3
-- PyQt6
-- pywin32
-
-Install dependencies:
-
-pip install PyQt6 pywin32
-
-Run:
-
-python missile.py
-
-Warning
+# Warning
 
 Setting friction above 1 may cause the missile to achieve warp speed, violate several laws of physics, and begin teleporting between corners of your monitor.
 
 This behavior is considered a feature.
 
-License
+# License
 
 Do whatever you want with it.
-
-Screenshot
-
-Add a screenshot here if you want.
