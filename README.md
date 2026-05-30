@@ -1,6 +1,6 @@
 # 🚀 Desktop Missile Pet
 
-A completely unnecessary desktop pet that follows your cursor like a homing missile.
+A completely unnecessary desktop pet that follows your cursor like a fast missile.
 
 Built with Python, PyQt6, and questionable decisions.
 
